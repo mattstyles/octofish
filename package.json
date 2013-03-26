@@ -1,7 +1,11 @@
 {
   "name": "octofish",
   "description": "Github Content Delivery System for Viperfish",
-  "keywords": [ "blog", "node", "github" ],
+  "keywords": [
+    "blog",
+    "node",
+    "github"
+  ],
   "version": "0.2.0",
   "homepage": "https://github.com/mattstyles/octofish",
   "author": {
@@ -26,6 +30,7 @@
     "node": ">= 0.8.x"
   },
   "dependencies": {
+    "underscore": "~1.4.4"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
