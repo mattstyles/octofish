@@ -30,7 +30,8 @@
     "node": ">= 0.8.x"
   },
   "dependencies": {
-    "underscore": "~1.4.4"
+    "underscore": "~1.4.4",
+    "github": "~0.1.8"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
